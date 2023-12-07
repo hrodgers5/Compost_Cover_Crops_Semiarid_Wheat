@@ -1,0 +1,1 @@
+This folder contains data and R scripts used in the paper "Sustaining Vulnerable Agroecosystems: Compost Provides Lasting Benefits to Soil Health and Carbon Storage in Semiarid Winter Wheat (Triticum aestivum, L.)."
